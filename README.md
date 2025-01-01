@@ -25,16 +25,5 @@ Restart Game: Press P to restart the current game.
 
 Higher levels increase the speed of Tetrimino drops.
 
-# Feature
-
-A visual celebration effect is triggered when you achieve significant milestones, such as clearing multiple rows or scoring a new high score.
-
-The game ends when the Tetriminoes stack to the top of the screen.
-
-Your score will be saved automatically if it is higher than the previous high score.
-
-Combo Tracker: Clearing multiple rows quickly triggers a combo effect, earning additional points.
-
-Highest Score: Your highest score is saved locally and displayed on the main screen.
 
 Enjoy the game and aim for the highest score! Good luck!
