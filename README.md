@@ -1,5 +1,4 @@
 # CSE423-project
-# ---------------------------------------------------------------------------------------------------------------------------------------------
 # User Manual for the Tetris Game
 
 Welcome to the Tetris Game! This guide will help you understand the game mechanics, controls, and gameplay features.
